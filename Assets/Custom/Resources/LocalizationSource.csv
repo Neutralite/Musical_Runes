@@ -1,0 +1,17 @@
+;en;pt
+AnnouncerListen;Hey, Listen!;Hey, Escute!
+AnnouncerPlayerTurn;Show me what you got!;Mostre o que sabes!
+AnnouncerFailedChoice;Not that one!;Não era essa!
+AnnouncerFailedByRuneChoice;Oh no!!!;Oh não!!!
+AnnouncerTimeout;Hurry Up!;Mais Rápido!
+AnnouncerFailedByTimeout;Timeout!;Acabou o Tempo!
+AnnouncerHighScore;New High Score: {0};Novo Recorde: {0}
+AnnouncerBloodSacrifice;You must be desperate!;Sacrifício!
+HintName;Hint;Dica
+HintDescription;Discards some runes that are not the next input of the sequence. Leveling up reduces the cooldown and increases the number of runes discarded.;Descarta algumas runas que não são a próxima entrada da sequência. Subir de nível reduz o tempo de espera e aumenta o número de runas descartadas.
+PurgeName;Purge;Expurgar
+PurgeDescription;Deletes a rune from the board and restarts the sequence. Leveling up reduces the cooldown.;Destroy uma runa do tabuleiro e reinicia a sequência. Subir de nível reduz o tempo de espera.
+ReplayName;Replay Sequence;Tocar novamente
+ReplayDescription;Hear the sequence again, and Restart playing it from the beginning. Leveling up reduces the cooldown.;Ouça a sequência novamente e reinicie a reprodução desde o início. Subir de nível reduz o tempo de espera.
+BloodSacrificeName;Blood Sacrifice;Sacrifício de Sangue
+BloodSacrificeDescription;Complete the current sequence at the cost of a life! Leveling up reduces the cooldown.;Complete a sequência atual pelo preço de uma vida! Subir de nível reduz o tempo de espera.
